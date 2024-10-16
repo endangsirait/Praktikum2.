@@ -56,7 +56,11 @@ method setter dan getter.
 # Output
 ![13](https://github.com/user-attachments/assets/176b1f39-0bfc-4b7d-8cab-610e572c48f5)
 
-
+# Penjelasan:
+* Atribut: nama, jenisKelamin, dan umur dideklarasikan dengan access modifier private.
+* Setter: Method setNama, setJenisKelamin, dan setUmur digunakan untuk mengatur nilai dari atribut.
+* Getter: Method getNama, getJenisKelamin, dan getUmur digunakan untuk mengambil nilai dari atribut.
+* Di dalam main, dua objek dari class Person dibuat (Anton dan Riko) dan nilai dari atribut masing-masing di-set menggunakan setter, kemudian ditampilkan menggunakan getter.
 
 
 
