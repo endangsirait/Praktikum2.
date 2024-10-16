@@ -15,5 +15,6 @@ lengkapi dengan access modifier.
 • Buatlah dua buah objek dari class Person
 bernama Anton dan Riko dan panggil
 method setter dan getter.
+
 ![image](https://github.com/user-attachments/assets/91aa6572-8ba9-46be-bd3f-e45e1e4f68ce)
 
