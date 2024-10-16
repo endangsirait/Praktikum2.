@@ -59,9 +59,13 @@ method setter dan getter.
   
    ![10](https://github.com/user-attachments/assets/ca33b187-fac4-4356-a1ed-1c7a0fbde4e1)
 
-* Menampilkan informasi awal
+* Menampilkan informasi anton
   
    ![11](https://github.com/user-attachments/assets/af472412-50c7-4928-899e-b0d2d9bcf803)
+
+* Menampilkan informasi riko
+  ![12](https://github.com/user-attachments/assets/9c0cbfb3-fdf8-4650-b0b2-0f7a65b74c83)
+
 
 # Output
 
