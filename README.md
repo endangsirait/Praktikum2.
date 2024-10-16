@@ -1,6 +1,6 @@
 # Praktikum2.
-|Nama  : Endang Sirait|
+Nama  : Endang Sirait
 
-|Kelas : TI.23.A6|
+Kelas : TI.23.A6
 
-|NIM   : 312310588|
+NIM   : 312310588
