@@ -33,7 +33,7 @@ method setter dan getter.
 
 * Setter Nama
   
-      ![4](https://github.com/user-attachments/assets/ab80b623-5ae6-46c5-945a-39318533d848)
+  ![4](https://github.com/user-attachments/assets/ab80b623-5ae6-46c5-945a-39318533d848)
 
 * Getter jenis kelamin
   
