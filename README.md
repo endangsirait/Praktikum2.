@@ -1,4 +1,4 @@
-# Praktikum2.
+
 Nama  : Endang Sirait
 
 Kelas : TI.23.A6
