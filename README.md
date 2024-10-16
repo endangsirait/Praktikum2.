@@ -40,8 +40,8 @@ method setter dan getter.
 * Getter umur
     ![7](https://github.com/user-attachments/assets/f41bf4dc-d616-4324-8a5c-acd59a0ffc56)
 
-* Setter umur
-  ![8](https://github.com/user-attachments/assets/e7547148-63d3-4fa4-94d2-8e7bf70e1517)
+* Setter Umur
+  ![8](https://github.com/user-attachments/assets/3c8db3de-4907-44cc-8e2c-335a6c29f5a2)
 
 * Menampilkan Informasi Person
      ![9](https://github.com/user-attachments/assets/7862e400-de78-46da-925a-0f752b52c0f4)
